@@ -1,4 +1,4 @@
-package mockito.test_doubles.spy;
+package mockito.test_doubles.mock;
 
 import java.time.LocalDate;
 
